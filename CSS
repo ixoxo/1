@@ -9,7 +9,8 @@ display:none;
 width:0px; height:0px;
 border:1px solid #e7e7e7;
 text-decoration:none;
-text-transform:none;
-font-family:dotum,SimSun,Sans-serif;
-list-style:none;
-float:left;
+text-transform:none; #글자 투명
+font-family:dotum,SimSun,Sans-serif; #폰트
+list-style:none; #li 점 없애기
+float:left; #정렬
+border-radius:5px 5px 5px 5px; #둥글게
